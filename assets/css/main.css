@@ -3137,3 +3137,28 @@ input, select, textarea {
 					}
 
 	}
+
+	/* Techs */
+	.skills{
+		display: flex;
+		align-items: center;
+		justify-content: space-evenly;
+		justify-content: center;
+		flex-direction: column;
+
+	}
+	.technologies{
+		display: flex;
+		align-items: center;
+		justify-content: space-evenly;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+
+	.tech{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		padding:50px
+	}
